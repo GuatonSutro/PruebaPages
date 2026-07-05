@@ -12,6 +12,11 @@ h4{
     margin-bottom: 20px;
     background-color: cyan;
 }
+h2{
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 20px;
+}
 section{
     background-color: black;
     text-align: center;
@@ -20,4 +25,8 @@ section{
 .margen-grande{
     margin-top: 50px;
     margin-bottom: 50px;
+}
+.card{
+    background-color: cyan;
+    color: white;
 }
