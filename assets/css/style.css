@@ -30,3 +30,14 @@ section{
     background-color: cyan;
     color: white;
 }
+.texto-footer{
+    color: white;
+    font-weight: 200;
+    font-size: 2.5rem;
+}
+.iconos-desc{
+    font-size: 1.5rem;
+}
+.iconos-footer{
+    font-size: 2rem;
+}
